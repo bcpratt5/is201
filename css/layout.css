@@ -1,0 +1,50 @@
+.common {
+
+    position: absolute;
+    border: 3px solid navy;
+    background-color: lightgray;
+}
+
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 200px;
+    bottom: -116px;
+    font-size: 15px;
+    
+
+}
+
+.mainbody {
+    top: 114px;
+    left: 214px;
+    right: 214px;
+    bottom: -116px;
+
+}
+
+.rightmenu {
+    top: 114px;
+    width: 200px;
+    right: 5px;
+    bottom: -116px;
+
+}
+
+.footer {
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+    position: fixed;
+}
